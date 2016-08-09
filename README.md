@@ -1,0 +1,2 @@
+# Jupyter
+Frameworks for Web Scripting &amp; Data Visualization DebianLive images for single source deployment across devices &amp; OS: LinuxRoot images generated with selected modules including Jupyterr GTK Consoles &amp; Notebooks providing: Julia, Python, Pandas ... SageMath, SymPy, SciPy, Rpy2, pyPhi, numpy with a separate GitHub project for Android APK installation &amp; VirtualBox OVA Images
